@@ -1,0 +1,1 @@
+export {TransactionDetailsBottomSheet} from './ConfirmationBottomModal';
