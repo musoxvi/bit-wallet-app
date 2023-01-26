@@ -2,6 +2,8 @@
 
 Bitcoin Wallet APP made using React Native, Apollo and Typescript! 😎
 
+<img width="150" height="150" src="https://user-images.githubusercontent.com/20372854/214898959-9de68c3f-5c0b-49c6-9cfb-62c0ec4f1234.gif" >
+
 ## Installation
 
 ```bash
@@ -51,4 +53,13 @@ $ yarn android
     │   ├── theme           # Colors used in the app
     │   ├── types           # Types and interfaces
     │   └── utils           # Helpers and utils of the app
-    └── ...
+    └──
+
+
+ ...
+
+## DEMO
+ANDROID | IOS
+| :---: | :---: |
+  <video width="100" height="300" src="https://user-images.githubusercontent.com/20372854/214902301-8d334417-623a-4b5d-823e-506a383275b0.mov" type="video/mp4" /> |  <video width="100" height="300" src="https://user-images.githubusercontent.com/20372854/214902301-8d334417-623a-4b5d-823e-506a383275b0.mov" type="video/mp4" />  | 
+
