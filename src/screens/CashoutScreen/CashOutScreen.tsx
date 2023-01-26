@@ -109,7 +109,7 @@ export const CashOutScreen: React.FC<
                 }
                 autoCapitalize="none"
                 autoComplete="off"
-                value="3FZbgi29cpjq2GjdwV8eyHuJJnkLtktZc5" //{address}
+                value={address}
                 autoCorrect={false}
                 isInputEmpty={!address}
                 onChangeText={onChangeAddressInput}

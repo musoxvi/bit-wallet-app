@@ -188,7 +188,7 @@ export const ConfirmationBottomModal: React.FC<IConfirmationBottomModal> = ({
 
           {!isSuccess && showStatus && status && (
             <View>
-              <CustomButton title="Reintentar" onPress={handleSubmit} />
+              <CustomButton title="Try again" onPress={handleSubmit} />
             </View>
           )}
         </View>
