@@ -14,7 +14,7 @@ $ git clone https://github.com/musoxvi/bit-wallet-app.git
 $ cd bit-wallet-app
 
 # Install dependencies
-$ npm install
+$ yarn install
 ```
 **Note**: 
 To run the server it is necessary to clone and run this [repository](https://github.com/musoxvi/apollo-server-bitWallet)
