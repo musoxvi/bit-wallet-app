@@ -55,11 +55,8 @@ $ yarn android
     │   └── utils           # Helpers and utils of the app
     └──
 
-
- ...
-
 ## DEMO
 ANDROID | IOS
 | :---: | :---: |
-  <video width="100" height="300" src="https://user-images.githubusercontent.com/20372854/214902301-8d334417-623a-4b5d-823e-506a383275b0.mov" type="video/mp4" /> |  <video width="100" height="300" src="https://user-images.githubusercontent.com/20372854/214902301-8d334417-623a-4b5d-823e-506a383275b0.mov" type="video/mp4" />  | 
+  <video width="100" height="300" src="https://user-images.githubusercontent.com/20372854/214907643-4a3fd044-0852-43af-ab06-b1fe33c07b85.mov" type="video/mp4" /> |  <video width="100" height="300" src="https://user-images.githubusercontent.com/20372854/214907467-ac053e63-366a-4574-90ee-2d8e2e79e90a.mov" type="video/mp4" />  | 
 
